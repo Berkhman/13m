@@ -13,7 +13,7 @@ public class C {
             a = scanner.nextInt();
             sum = sum + a;
         }
-        int d = sum / n;
+        int d =  sum / n;
         System.out.print(d);
     }
 }
